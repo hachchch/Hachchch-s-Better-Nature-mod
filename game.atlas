@@ -18,3 +18,10 @@ TileSets/FantasyHex/Tiles/Mountain3
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest2
+  rotate: false
+  xy: 556, 976
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
