@@ -1,0 +1,20 @@
+
+game1001140149.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Mountain2
+  rotate: false
+  xy: 716, 593
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain3
+  rotate: false
+  xy: 766, 593
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
