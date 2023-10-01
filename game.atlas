@@ -13,7 +13,7 @@ TileSets/FantasyHex/Tiles/Mountain2
   index: -1
 TileSets/FantasyHex/Tiles/Mountain3
   rotate: false
-  xy: 766, 593
+  xy: 666, 593
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
