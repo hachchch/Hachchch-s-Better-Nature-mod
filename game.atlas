@@ -76,7 +76,7 @@ TileSets/FantasyHex/Tiles/Desert2
   index: -1
 TileSets/FantasyHex/Tiles/Hill2
   rotate: false
-  xy: 556, 681
+  xy: 556, 717
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
