@@ -116,6 +116,13 @@ TileSets/FantasyHex/Tiles/Hill3
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Hill4
+  rotate: false
+  xy: 556, 681
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Ice2
   rotate: false
   xy: 676, 1208
@@ -172,7 +179,7 @@ TileSets/FantasyHex/Tiles/Mine2
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/HillForest2
+TileSets/FantasyHex/Tiles/Forest2
   rotate: false
   xy: 516, 690
   size: 32, 32
