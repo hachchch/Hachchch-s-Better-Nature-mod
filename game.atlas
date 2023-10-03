@@ -90,7 +90,7 @@ TileSets/FantasyHex/Tiles/Grassland2
   index: -1
 TileSets/FantasyHex/Tiles/Grassland3
   rotate: false
-  xy: 596, 1238
+  xy: 596, 1158
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
