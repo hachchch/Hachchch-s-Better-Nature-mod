@@ -13,7 +13,14 @@ TileSets/FantasyHex/Tiles/Mountain2
   index: -1
 TileSets/FantasyHex/Tiles/Mountain3
   rotate: false
-  xy: 666, 595
+  xy: 666, 593
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain4
+  rotate: false
+  xy: 716, 643
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -21,6 +28,13 @@ TileSets/FantasyHex/Tiles/Mountain3
 TileSets/FantasyHex/Tiles/GrasslandForest2
   rotate: false
   xy: 556, 976
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest3
+  rotate: false
+  xy: 556, 1026
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -60,9 +74,23 @@ TileSets/FantasyHex/Tiles/Plains2
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Plains3
+  rotate: false
+  xy: 756, 1050
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Grassland2
   rotate: false
   xy: 596, 1208
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland3
+  rotate: false
+  xy: 596, 1258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -77,6 +105,13 @@ TileSets/FantasyHex/Tiles/Desert2
 TileSets/FantasyHex/Tiles/Hill2
   rotate: false
   xy: 556, 717
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill3
+  rotate: false
+  xy: 556, 667
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -114,5 +149,33 @@ TileSets/FantasyHex/Units/Worker2
   xy: 916, 865
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Farm2
+  rotate: false
+  xy: 556, 1165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Farm3
+  rotate: false
+  xy: 556, 1215
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mine2
+  rotate: false
+  xy: 596, 688
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HillForest2
+  rotate: false
+  xy: 516, 690
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
